@@ -1,11 +1,11 @@
 {
     "name" : "Framework",
     "summary" : "cookiecutter bootstrap template for swift framework",
-    "bundle_identifier" : "me.rahulkatariya",
-    "full_name": "Rahul Katariya",
-    "email": "rahulkatariya@me.com",
+    "bundle_identifier" : "com.applicodo",
+    "full_name": "Ciprian Redinciuc",
+    "email": "ciprian@applicodo.com",
     "organization_name" : "cookiecutter-swift",
-    "homepage" : "http://rahulkatariya.me",
+    "homepage" : "http://applicodo.com",
     "version": "0.0.1",
-    "twitter": "rahulkatariya91"
+    "twitter": "cyupa89"
 }

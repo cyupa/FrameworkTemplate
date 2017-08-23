@@ -7,3 +7,6 @@
 [submodule "Carthage/Checkouts/xcconfigs"]
 	path = {{ cookiecutter.name }}/Carthage/Checkouts/xcconfigs
 	url = https://github.com/jspahrsummers/xcconfigs.git
+[submodule "Carthage/Checkouts/OHHTTPStubs"]
+		path = {{ cookiecutter.name }}/Carthage/Checkouts/OHHTTPStubs
+		url = https://github.com/AliSoftware/OHHTTPStubs.git
